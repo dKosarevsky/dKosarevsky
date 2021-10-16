@@ -15,9 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src = "https://media.giphy.com/media/3ohhwl81JmAragMpUc/giphy.gif" width = "820px" height = "30px">
 <center>
       <div>
-                  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=dkosarevsky&theme=dark&show_icons=true&hide_border=true&count_private=true&layout=compact" /> </td>
-                  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkosarevsky&theme=dark&hide=html&layout=compact" /> </td>
+            <td>
+                  <img
+                       width="400px"
+                       align="left"
+                       src="https://github-readme-stats.vercel.app/api?username=dkosarevsky&theme=merko&show_icons=true&hide_border=false&count_private=true&layout=compact"/>
+            </td>
+            <td>
+                  <img
+                       width="400px"
+                       align="left"
+                       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkosarevsky&theme=merko&hide=html&layout=compact"/>
+            </td>
       </div>
 </center>
+<img src = "https://media.giphy.com/media/3ohhwl81JmAragMpUc/giphy.gif" width = "820px" height = "30px">
