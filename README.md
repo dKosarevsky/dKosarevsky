@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = "https://media.giphy.com/media/3ohhwl81JmAragMpUc/giphy.gif" width = "820px" height = "30px">
 <center>
       <div>
             <td>
@@ -32,4 +31,3 @@ Here are some ideas to get you started:
             </td>
       </div>
 </center>
-<img src = "https://media.giphy.com/media/3ohhwl81JmAragMpUc/giphy.gif" width = "820px" height = "30px">
