@@ -4,6 +4,7 @@
 
 ### Languages:
 
+<div>
 <img align="left" title="Python" alt="Python" width="50px" src="img/logo/python.svg"/>
 <img align="left" title="Golang" alt="Golang" width="80px" src="img/logo/go.svg"/>
 <img align="left" title="JavaScript" alt="JavaScript" width="50px" src="img/logo/JavaScript.svg"/>
@@ -30,11 +31,13 @@
 <img align="left" title="Linux" alt="Linux" width="50px" src="img/logo/linux.svg"/>
 <img align="left" title="Amazon Web Services" alt="AWS" width="80px" src="img/logo/aws.svg"/>
 <img align="left" title="Kubernetes" alt="Kubernetes" width="80" src="img/logo/Kubernetes.svg"/>
-<img align="left" title="Terraform" alt="Terraform" width="110px" src="img/logo/Terraform.svg"/>
+
+[//]: # (<img align="left" title="Terraform" alt="Terraform" width="110px" src="img/logo/Terraform.svg"/>)
 
 <br/> 
 <br/>
 <br/>
+</div>
 
 ## Statistics
 
@@ -59,7 +62,7 @@
         </td>
         <td>
             <img 
-                align="left" titlealt="contribution  alt="contribution graph" 
+                align="left" alt="contribution graph" 
                 src="https://activity-graph.herokuapp.com/graph?username=dkosarevsky&theme=gotham&count_private=true&radius=8"
             >
         </td>
