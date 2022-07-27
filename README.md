@@ -28,8 +28,8 @@
 <img align="left" title="Gitlab" alt="Gitlab" width="50px" src="img/logo/gitlab.svg"/>
 <img align="left" title="Jira" alt="Jira" width="50px" src="img/logo/jira.svg"/>
 <img align="left" title="Linux" alt="Linux" width="50px" src="img/logo/linux.svg"/>
-<img align="left" title="Amazon Web Services" alt="AWS" width="50px" src="img/logo/aws.svg"/>
-<img align="left" title="Kubernetes" alt="Kubernetes" width="130px" src="img/logo/k8s.svg"/>
+<img align="left" title="Amazon Web Services" alt="AWS" width="80px" src="img/logo/aws.svg"/>
+<img align="left" title="Kubernetes" alt="Kubernetes" width="80" src="img/logo/Kubernetes.svg"/>
 <img align="left" title="Terraform" alt="Terraform" width="110px" src="img/logo/Terraform.svg"/>
 
 <br/> 
