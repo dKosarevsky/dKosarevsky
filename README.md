@@ -36,10 +36,8 @@
 <br/>
 <br/>
 
-
 ## Statistics
 
----
 ![](https://komarev.com/ghpvc/?username=dKosarevsky)
 ![](https://img.shields.io/github/followers/dKosarevsky?label=Followers&style=social)
 
