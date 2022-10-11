@@ -25,7 +25,7 @@
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="50px" height="50px"></a>
 <a href="https://airflow.apache.org/" title="Airflow"><img src="https://github.com/get-icon/geticon/raw/master/icons/airflow.svg" alt="Airflow" width="50px" height="50px"></a>
 <a href="https://streamlit.io/" title="Streamlit"><img src="img/logo/streamlit.svg" alt="Streamlit" width="50px" height="50px"></a>
-<a href="https://fastapi.tiangolo.com/" title="Fastapi"><img src="img/logo/Fastapi.svg" alt="Fastapi" width="50px" height="50px"></a>
+<a href="https://fastapi.tiangolo.com/" title="Fastapi"><img src="img/logo/fastapi.svg" alt="Fastapi" width="50px" height="50px"></a>
 <a href="https://github.com/" title="Github"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="50px" height="50px"></a>
 <a href="https://gitlab.com/" title="Gitlab"><img src="https://github.com/get-icon/geticon/raw/master/icons/gitlab.svg" alt="Gitlab" width="50px" height="50px"></a>
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="50px" height="50px"></a>
