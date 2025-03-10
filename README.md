@@ -5,22 +5,19 @@
 ### Languages:
 
 <a href="https://python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>
-<a href="https://go.dev/" title="Golang"><img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="Golang" width="50px" height="50px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"></a>
 <a href="https://gnu.org/software/bash/" title="Bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="50px" height="50px"></a>
-<a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="50px" height="50px"></a>
-<a href="https://postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="50px" height="50px"></a>
-<a href="https://vertica.com/" title="Vertica"><img src="img/logo/Vertica.svg" alt="Vertica" width="50px" height="50px"></a>
-<a href="https://mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
-<a href="https://redis.com/" title="Redis"><img src="https://github.com/get-icon/geticon/raw/master/icons/redis.svg" alt="Redis" width="50px" height="50px"></a>
-<a href="https://mongodb.com/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg" alt="MongoDB" width="50px" height="50px"></a>
-<a href="https://w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
-<a href="https://w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a>
+
 
 ### Tools:
 
 <a href="https://linux.org/" title="Linux"><img src="img/logo/linux.svg" alt="Linux" width="50px" height="50px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="50px" height="50px"></a>
+<a href="https://postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="50px" height="50px"></a>
+<a href="https://vertica.com/" title="Vertica"><img src="img/logo/Vertica.svg" alt="Vertica" width="50px" height="50px"></a>
+<a href="https://mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
+<a href="https://redis.com/" title="Redis"><img src="https://github.com/get-icon/geticon/raw/master/icons/redis.svg" alt="Redis" width="50px" height="50px"></a>
+<a href="https://mongodb.com/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg" alt="MongoDB" width="50px" height="50px"></a>
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="50px" height="50px"></a>
 <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" alt="Kubernetes" width="50px" height="50px"></a>
 <a href="https://terraform.io/" title="Terraform"><img src="https://github.com/get-icon/geticon/raw/master/icons/terraform.svg" alt="Terraform" width="50px" height="50px"></a>
@@ -36,10 +33,7 @@
 <a href="https://pytorch.org/" title="PyTorch"><img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" alt="PyTorch" width="50px" height="50px"></a>
 <a href="https://swagger.io/" title="Swagger"><img src="https://github.com/get-icon/geticon/raw/master/icons/swagger.svg" alt="Swagger" width="50px" height="50px"></a>
 <a href="https://selenium.dev/" title="Selenium"><img src="https://github.com/get-icon/geticon/raw/master/icons/selenium.svg" alt="Selenium" width="50px" height="50px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a>
-<a href="https://atlassian.com/" title="Atlassian"><img src="https://github.com/get-icon/geticon/raw/master/icons/atlassian.svg" alt="Atlassian" width="50px" height="50px"></a>
-<a href="https://jira.com/" title="Jira"><img src="https://github.com/get-icon/geticon/raw/master/icons/jira.svg" alt="Jira" width="50px" height="50px"></a>
-<a href="https://bitbucket.org/" title="Bitbucket"><img src="https://github.com/get-icon/geticon/raw/master/icons/bitbucket.svg" alt="Bitbucket" width="50px" height="50px"></a>
+
 
 ## Statistics
 
