@@ -1,4 +1,4 @@
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=4E9F3D&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Dmitry)
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=4E9F3D&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Dima)
 
 ![](img/way.jpeg)
 
