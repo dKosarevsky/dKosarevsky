@@ -7,7 +7,8 @@
 <a href="https://python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"></a>
 <a href="https://gnu.org/software/bash/" title="Bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="50px" height="50px"></a>
-<a href="https://www.contrib.andrew.cmu.edu/~shadow/sql/sql1992.txt" title="SQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Bash" width="50px" height="50px"></a>
+<a href="https://www.contrib.andrew.cmu.edu/~shadow/sql/sql1992.txt" title="SQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="SQL" width="50px" height="50px"></a>
+<a href="https://www.rust-lang.org/" title="Rust"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" width="50px" height="50px"></a>
 
 ### Tools:
 
