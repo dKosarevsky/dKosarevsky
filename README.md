@@ -21,7 +21,6 @@
 <a href="https://redis.com/" title="Redis"><img src="https://github.com/get-icon/geticon/raw/master/icons/redis.svg" alt="Redis" width="50px" height="50px"></a>
 <a href="https://mongodb.com/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg" alt="MongoDB" width="50px" height="50px"></a>
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="50px" height="50px"></a>
-<a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="50px" height="50px"></a>
 <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" alt="Kubernetes" width="50px" height="50px"></a>
 <a href="https://terraform.io/" title="Terraform"><img src="https://github.com/get-icon/geticon/raw/master/icons/terraform.svg" alt="Terraform" width="50px" height="50px"></a>
 <a href="https://docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="50px" height="50px"></a>
@@ -31,9 +30,7 @@
 <a href="https://github.com/" title="Github"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="50px" height="50px"></a>
 <a href="https://gitlab.com/" title="Gitlab"><img src="https://github.com/get-icon/geticon/raw/master/icons/gitlab.svg" alt="Gitlab" width="50px" height="50px"></a>
 <a href="https://numpy.org/" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="50px" height="50px"></a>
-<a href="https://pytorch.org/" title="PyTorch"><img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" alt="PyTorch" width="50px" height="50px"></a>
 <a href="https://swagger.io/" title="Swagger"><img src="https://github.com/get-icon/geticon/raw/master/icons/swagger.svg" alt="Swagger" width="50px" height="50px"></a>
-<a href="https://selenium.dev/" title="Selenium"><img src="https://github.com/get-icon/geticon/raw/master/icons/selenium.svg" alt="Selenium" width="50px" height="50px"></a>
 
 ## Statistics
 
