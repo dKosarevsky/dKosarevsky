@@ -19,7 +19,6 @@
 <a href="https://vertica.com/" title="Vertica"><img src="img/logo/Vertica.svg" alt="Vertica" width="50px" height="50px"></a>
 <a href="https://mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
 <a href="https://redis.com/" title="Redis"><img src="https://github.com/get-icon/geticon/raw/master/icons/redis.svg" alt="Redis" width="50px" height="50px"></a>
-<a href="https://mongodb.com/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg" alt="MongoDB" width="50px" height="50px"></a>
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="50px" height="50px"></a>
 <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" alt="Kubernetes" width="50px" height="50px"></a>
 <a href="https://terraform.io/" title="Terraform"><img src="https://github.com/get-icon/geticon/raw/master/icons/terraform.svg" alt="Terraform" width="50px" height="50px"></a>
