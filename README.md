@@ -7,6 +7,7 @@
 <a href="https://python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"></a>
 <a href="https://gnu.org/software/bash/" title="Bash"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Bash" width="50px" height="50px"></a>
+<a href="https://gnu.org/software/bash/" title="SQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/sql.svg" alt="Bash" width="50px" height="50px"></a>
 
 
 ### Tools:
@@ -40,27 +41,4 @@
 ![](https://komarev.com/ghpvc/?username=dKosarevsky)
 ![](https://img.shields.io/github/followers/dKosarevsky?label=Followers&style=social)
 
-<table>
-    <tr>
-        <td>
-            <img
-                width="400px"
-                align="left"
-                src="https://github-readme-stats.vercel.app/api?username=dkosarevsky&theme=merko&show_icons=true&hide_border=false&count_private=true&layout=compact"
-            />
-        </td>
-        <td>
-            <img
-                width="400px"
-                align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkosarevsky&theme=merko&hide=html&layout=compact"
-            />
-        </td>
-    </tr>
-    <tr>
-        <img 
-            align="left" alt="contribution graph" 
-            src="https://activity-graph.herokuapp.com/graph?username=dkosarevsky&theme=gotham&count_private=true&radius=8"
-        >
-    </tr>
-</table>
+
